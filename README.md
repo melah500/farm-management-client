@@ -1,4 +1,4 @@
-# FarmManagementClient
+# Farm Management Client
 
 - This project is the client for the farm management backend located at http://localhost:8080
 
