@@ -6,4 +6,4 @@
 
 - This requires Node>=v18.19.1 npm>=10.2.4 and Angular CLI version>=18.0.6
 
-- Sample search parameters to use are bases on the data loaded on application startup in the backend; Farm A, Season B, Corn as the crop.
+- Sample search parameters to use are based on the data loaded on application startup in the backend; Farm A, Season B, Corn as the crop.
